@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">生活导购</string>
+    <color name="txt_color">#00DD00</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="blue_color">#0000DD</color>
+    <string name="lan">中文</string>
+    <string name="welcome">  欢迎进入水上世界,...</string>
+    <string name="str1">影视推荐</string>
+    <string name="str2">电视直播</string>
+    <string name="str3">影视点播</string>
+    <string name="str4">酒店服务</string>
+    <string name="str5">餐饮服务</string>
+</resources>

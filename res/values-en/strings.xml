@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LifeGuide</string>
+    <color name="txt_color">#00DD00</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="blue_color">#0000DD</color>
+    <string name="lan">English</string>
+    <string name="welcome">  welcome to word of water ,...</string>
+    <string name="str1">Movie\nChoose</string>
+    <string name="str2">TV\nOnline</string>
+    <string name="str3">Movie\nRec</string>
+    <string name="str4">History\nServices</string>
+    <string name="str5">Catering\nServices</string>
+</resources>
